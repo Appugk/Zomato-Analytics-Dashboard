@@ -18,7 +18,7 @@ This project analyzes Zomato restaurant data to uncover insights into customer p
 5. Dashboard Creation  
 
 ## 📊 Dashboard Preview  
-![Dashboard](images/dashboard.png)
+![Dashboard]([images/dashboard.png)](https://github.com/Appugk/Zomato-Analytics-Dashboard/blob/main/WhatsApp%20Image%202026-03-22%20at%2010.02.13%20PM.jpeg)
 
 > 📌 *Add your dashboard screenshot in a folder named `images` and rename it to `dashboard.png`*
 
